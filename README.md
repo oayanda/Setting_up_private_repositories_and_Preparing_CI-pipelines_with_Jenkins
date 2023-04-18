@@ -1,2 +1,1 @@
-# Setting_up_private_repositories_and_Preparing_CI-pipelines_with_Jenkins
-Setting up private repositories and Preparing CI pipelines with Jenkins
+# Setting up private repositories and Preparing CI pipelines with Jenkins
